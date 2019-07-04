@@ -1,0 +1,15 @@
+{
+  "name": "thoughtworks",
+  "version": "1.0.0",
+  "description": "this is a test",
+  "main": "main.js",
+  "dependencies": {
+    "jest": "^24.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "songbai",
+  "license": "ISC"
+}
